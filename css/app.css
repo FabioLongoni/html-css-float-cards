@@ -39,6 +39,7 @@ header .title, .intro {
     margin-bottom: 40px;
     margin-right: 30px;
     width: calc(calc(100% - 60px)/3);
+    box-shadow: 5px 5px 5px 5px #BB9F9F;
 }
 
 .card:nth-child(3n) {
