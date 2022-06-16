@@ -14,5 +14,42 @@ header .title, .intro {
     color: #e95f77;
 }
 
+.container {
+    margin: 0 auto;
+}
 
+.clearfix {
+    content:"";
+    display: table;
+    clear: both;
+}
 
+.card {
+    background-color: rgb(209, 186, 170);
+    border: 1px solid black;
+    float: left;
+    margin-bottom: 20px;
+    width: calc(100% / 4);
+}
+
+.card_image {
+    width: 90px;
+    height: 90px;
+    float: left;
+    margin-right: 10px;
+}
+
+.card_title {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.card_profession, .card_email {
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.card_email {
+    padding-top: 10px;
+    color: blueviolet;
+}
