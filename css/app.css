@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header .title, .intro {
+    text-align: center;
+    margin: 30px 100px;
+}
+
+.title {
+    color: #e95f77;
+}
+
+
+
