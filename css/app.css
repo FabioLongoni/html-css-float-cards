@@ -52,6 +52,11 @@ header .title, .intro {
     margin-right: 10px;
 }
 
+#card-wrapper {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
 .card_title {
     font-size: 20px;
     padding-top: 10px;
